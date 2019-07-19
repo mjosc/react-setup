@@ -1,8 +1,10 @@
 {
-  "name": "app",
+  "name": "react-setup",
   "version": "0.0.1",
-  "description": "setup react template",
+  "description": "A simple Webpack, Babel and ESlint config for React projects",
   "private": true,
+  "author": "----",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --config webpack/dev.config.js",
